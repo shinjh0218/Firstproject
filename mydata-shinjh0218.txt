@@ -1,0 +1,6 @@
+name : shin jong hwan
+student id : 2021041020
+major : software
+grade : 1
+class : opensw
+
