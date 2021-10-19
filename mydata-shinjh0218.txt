@@ -3,4 +3,5 @@ student id : 2021041020
 major : software
 grade : 1
 class : opensw
+today's good phrase : Always laugh when you can. it is cheap medicine.
 
